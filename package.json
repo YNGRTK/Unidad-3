@@ -1,0 +1,24 @@
+{
+  "name": "firebase",
+  "version": "1.0.0",
+  "description": "este proyecto maneja una bd en firebase",
+  "keywords": [
+    "firebase",
+    "base",
+    "de",
+    "datos",
+    "nosql"
+  ],
+  "license": "ISC",
+  "author": "Iván Hernández",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "firebase": "^12.12.0",
+    "firebase-admin": "^13.8.0"
+  }
+}
